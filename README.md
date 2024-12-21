@@ -1,6 +1,6 @@
 ## Welcome to Jack's System Logs 👋
 
-#### Hi there! I'm **Ary**, a passionate **penetration tester** and skilled **web developer**.  
+### Hi there! I'm **Ary**, a passionate **penetration tester** and skilled **web developer**.  
 I specialize in uncovering vulnerabilities, enhancing system security, and crafting dynamic, user-centric web solutions. My mission is to blend cybersecurity expertise with web development to create secure, efficient, and innovative digital experiences. 🚀
 
 ---
