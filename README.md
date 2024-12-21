@@ -6,7 +6,6 @@ I specialize in uncovering vulnerabilities, enhancing system security, and craft
 ---
 
 ### 🛠️ Technologies & Tools  
-I work with a wide range of technologies to deliver top-notch solutions:  
 - **Programming**: Python, JavaScript, Bash  
 - **Web Development**: HTML, CSS, Node.js  
 - **Cybersecurity Tools**: Nmap, Metasploit, Burp Suite, Wireshark  
@@ -16,7 +15,6 @@ I work with a wide range of technologies to deliver top-notch solutions:
 
 ### 📂 Featured Repositories  
 Here are some of my key projects:  
-
 - **[🔗 Vulnerability Scanner](https://github.com/jackssyslogs/vulnerability-scanner)**  
   A lightweight tool for identifying vulnerabilities in web applications.  
 - **[🔗 Secure Auth System](https://github.com/jackssyslogs/secure-auth-system)**  
@@ -27,5 +25,3 @@ Here are some of my key projects:
   A script for monitoring and analyzing network traffic in real-time.  
 
 Explore all my projects: [🔗 View All Repositories](https://github.com/jackssyslogs?tab=repositories)  
-
----
